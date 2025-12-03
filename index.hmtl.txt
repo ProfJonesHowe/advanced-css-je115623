@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Jayda's Jewelry Page</title>
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <a href="#" class="logo">Jayda’s Site</a>
+
+    <nav class="site-nav">
+      <ul>
+        <li><a class="active" href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main style="padding: 2rem;">
+    <h1>Welcome</h1>
+
+    <p>
+      This page is about jewelry and my personal love for collecting pieces that fit 
+      my style. I enjoy finding new items that feel meaningful, whether they are simple 
+      or bold. Jewelry has become a part of my everyday life, and this page 
+      reflects the designs, styles, and inspiration behind the pieces I enjoy obtaining 
+      for myself.
+    </p>
+
+  </main>
+
+</body>
+</html>
